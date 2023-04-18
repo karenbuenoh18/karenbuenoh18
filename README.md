@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://karenbuenoh18.github.io/">Karen Bueno</a> 👋</h1>
 </div>
-<img src="https://www.linkedin.com/in/karenbuenoh18/overlay/background-image/">
+<img src="C:\Users\Hp\OneDrive\Escritorio\karenbuenoh18.github.io\imagenes\Perfil.png">
 <!--
 **karenbuenoh18/karenbuenoh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
